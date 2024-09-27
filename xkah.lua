@@ -2,7 +2,7 @@
 
 game.Players.LocalPlayer.Character:WaitForChild("Humanoid")
 
-xowner = "Ih0temyIife" or "Sans_fromlb"
+xowner = "Ih0temyIife" or "Sans_fromlb" or "Jayyyandmathew2"
 
 local antikill = true
 local antihat = true
@@ -760,7 +760,7 @@ local antirocketc = coroutine.wrap(function()
 end)
 antirocketc()
 wait(1)
-if lp.Name == "Ih0temyIife" or lp.Name == "Sans_fromlb" then
+if lp.Name == "Ih0temyIife" or lp.Name == "Sans_fromlb" or lp.Name == "Jayyyandmathew2" then
   h("\n\n\nOwner of XKahv2 lua has joined the game.\n\n\n")
 else
   h("\n\n\n\n\n\nXKahV2(XKV2) has loaded\n\n THIS SCRIPT USES GSCRIPT, TURN IT OFF IF YOU USE IT ALREADY\n\nPrefix is there is no prefix\n\nXKahv2 made by Ih0temyIife")
